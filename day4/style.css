@@ -1,0 +1,45 @@
+body {
+    background-color: #232323;
+}
+.theNav {
+    list-style-type: none;
+    display: block;
+    border-style: solid;
+    border-color: #e4e4e4;
+    background-color: #e4e4e4;
+    border-radius: 5px;
+    height: 65px;
+}
+
+li  {
+    display: inline-block;
+}
+
+.logo-image {
+    height: 50px; 
+    width: 50px;
+}
+
+.logo {
+    padding: 5px;
+    vertical-align: middle;
+}
+
+.text {
+    padding: 15px;
+    vertical-align: middle;
+}
+
+#title {
+    padding: 0 15px 0 0;
+}
+
+#link:hover {
+    background-color: #d1d1d1;
+}
+
+a {
+    color: #232323;
+    text-decoration: none;
+    font-size: 125%;
+}

@@ -1,0 +1,46 @@
+/*CSS for Day 3 class*/
+
+body {
+    background-color: #000000;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+.box1 {
+    background-color: #008000;
+    color: #ffffff;
+    margin: 15px;
+    border: 10px;
+    border-style: solid;
+    border-color: #009900;
+}
+
+.box2 {
+    background-color: #ff0000;
+    color: #ffffff;
+    margin: 15px;
+    border: 10px;
+    border-style: solid;
+    border-color: #ff3700;
+}
+
+.box3 {
+    background-color: #0000ff;
+    color: #ffffff;
+    margin: 15px;
+    border: 10px;
+    border-style: solid;
+    border-color: #0040ff;
+}
+
+.box4 {
+    background-color: #ffd700;
+    margin: 15px;
+    border: 10px;
+    border-style: solid;
+    border-color: #ffff00;
+}
